@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+
+    <!-- Auth screen -->
+    <string name="auth_title">Welcome back</string>
+    <string name="auth_subtitle">Please sign in to continue.</string>
+    <string name="auth_logo_content_description">Google Logo</string>
+
+    <!-- Home screen -->
+    <string name="home_title">Diary</string>
+
+</resources>
